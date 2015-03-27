@@ -1,0 +1,205 @@
+{
+  "H" : {
+    mass: 1.00794,
+    name: "Hydrogen"
+  },
+  "He": {
+    mass: 4.0026,
+    name: "Helium"
+  },
+  "Li": {
+    mass: 6.941,
+    name: "Lithium"
+  },
+  "Be": {
+    mass: 9.0122,
+    name: "Beryllium"
+  },
+  "B": {
+    mass: 10.811,
+    name: "Boron"
+  },
+  "C": {
+    mass: 12.0107,
+    name: "Carbon"
+  },
+  "N": {
+    mass: 14.0067,
+    name: "Nitrogen"
+  },
+  "O": {
+    mass: 15.9994,
+    name: "Oxygen"
+  },
+  "F": {
+    mass: 18.9984,
+    name: "Fluorine"
+  },
+  "Ne": {
+    mass: 20.1797,
+    name: "Neon"
+  },
+  "Na": {
+    mass: 22.9897,
+    name: "Sodium"
+  },
+  "Mg": {
+    mass: 24.305,
+    name: "Magnesium"
+  },
+  "Al": {
+    mass: 26.9815,
+    name: "Aluminum"
+  },
+  "Si": {
+    mass: 28.0855,
+    name: "Silicon"
+  },
+  "P": {
+    mass: 30.9738,
+    name: "Phosphorus"
+  },
+  "S": {
+    mass: 32.065,
+    name: "Sulphur"
+  },
+  "Cl": {
+    mass: 35.453,
+    name: "Chlorine"
+  },
+  "Ar": {
+    mass: 39.948,
+    name: "Argon"
+  },
+  "K": {
+    mass: 39.0983,
+    name: "Potassium"
+  },
+  "Ca": {
+    mass: 40.078,
+    name: "Calcium"
+  },
+  "Sc": {
+    mass: 44.9559,
+    name: "Scandium"
+  },
+  "Ti": {
+    mass: 47.867,
+    name: "Titanium"
+  },
+  "V": {
+    mass: 50.9415,
+    name: "Vanadium"
+  },
+  "Cr": {
+    mass: 51.9961,
+    name: "Chromium"
+  },
+  "Mn": {
+    mass: 54.938,
+    name: "Manganese"
+  },
+  "Fe": {
+    mass: 55.845,
+    name: "Iron"
+  },
+  "Co": {
+    mass: 58.9332,
+    name: "Cobalt"
+  },
+  "Ni": {
+    mass: 58.6934,
+    name: "Nickel"
+  },
+  "Cu": {
+    mass: 63.546,
+    name: "Copper"
+  },
+  "Zn": {
+    mass: 65.39,
+    name: "Zinc"
+  },
+  "Ga": {
+    mass: 69.723,
+    name: "Gallium"
+  },
+  "Ge": {
+    mass: 72.64,
+    name: "Germanium"
+  },
+  "As": {
+    mass: 74.9216,
+    name: "Arsenic"
+  },
+  "Se": {
+    mass: 78.96,
+    name: "Selenium"
+  },
+  "Br": {
+    mass: 79.904,
+    name: "Bromine"
+  },
+  "Kr": {
+    mass: 83.8,
+    name: "Krypton"
+  },
+  "Rb": {
+    mass: 85.4678,
+    name: "Rubidium"
+  },
+  "Sr": {
+    mass: 87.62,
+    name: "Strontium"
+  },
+  "Y": {
+    mass: 88.9059,
+    name: "Yttrium"
+  },
+  "Zr": {
+    mass: 91.224,
+    name: "Zirconium"
+  },
+  "Nb": {
+    mass: 92.9064,
+    name: "Niobium"
+  },
+  "Mo": {
+    mass: 95.94,
+    name: "Molybdenum"
+  },
+  "Tc": {
+    mass: 98,
+    name: "Technetium"
+  },
+  "Ru": {
+    mass: 101.07,
+    name: "Ruthenium"
+  },
+  "Rh": {
+    mass: 102.9055,
+    name: "Rhodium"
+  },
+  "Pd": {
+    mass: 106.42,
+    name: "Palladium"
+  },
+  "Ag": {
+    mass: 107.8682,
+    name: "Silver"
+  },
+  "Cd": {
+    mass: 112.411,
+    name: "Cadmium"
+  },
+  "In": {
+    mass: 114.818,
+    name: "Indium"
+  },
+  "Sn": {
+    mass: 118.71,
+    name: "Tin"
+  },
+  "Sb": {
+    mass: 121.76,
+    name: ""
+  }}
